@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>RunCat</id>
+    <version>1.10.0</version>
+    <authors>Takuto Nakamura</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <projectUrl>https://github.com/Kyome22/RunCat_for_windows</projectUrl>
+    <description>A cute runnning cat animation on your windows taskbar.</description>
+    <copyright>© 2021 Takuto Nakamura</copyright>
+    <dependencies>
+      <group targetFramework="net5.0-windows7.0">
+        <dependency id="ILMerge" version="3.0.41" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net5.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="E:\tmp\temp\RunCat_for_windows-master\RunCat\bin\Release\net5.0-windows\win-x64\RunCat.runtimeconfig.json" target="lib\net5.0-windows7.0\RunCat.runtimeconfig.json" />
+    <file src="E:\tmp\temp\RunCat_for_windows-master\RunCat\bin\Release\net5.0-windows\win-x64\RunCat.dll" target="lib\net5.0-windows7.0\RunCat.dll" />
+    <file src="E:\tmp\temp\RunCat_for_windows-master\LICENSE" target="LICENSE" />
+  </files>
+</package>

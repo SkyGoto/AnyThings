@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bySxRpoTsydDnwek0Q1Xz8A98t1dB6d7GIHfN+7xDP7o0MNAmjGtAXOfuW4zo7ui5TiT2p3o+HZpzGbCfxdMXQ==",
+  "success": true,
+  "projectFilePath": "E:\\tmp\\temp\\RunCat_for_windows-master\\RunCat\\RunCat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.3\\microsoft.netcore.app.runtime.win-x64.5.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.3\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.3\\microsoft.aspnetcore.app.runtime.win-x64.5.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
